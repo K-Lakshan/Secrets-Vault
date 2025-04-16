@@ -25,7 +25,7 @@ A secure PHP web application for storing encrypted sensitive information with us
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/secrets-vault.git
+   git clone https://github.com/K-Lakshan/Secrets-Vault.git
    cd Secrets-Vault
    ```
 
@@ -37,7 +37,7 @@ A secure PHP web application for storing encrypted sensitive information with us
    ```
 
 3. **Configure the application**
-   - Update the database credentials and site key
+   - Update the database credentials and site key ```config.php```
    ```php
    define('DB_HOST', 'localhost');
    define('DB_NAME', 'secrets_vault');
